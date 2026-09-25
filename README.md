@@ -7,6 +7,7 @@ I design and build AI-powered products that solve real-world business problems, 
 ## 🚀 Projects
 
 ### Ventrex Growth
+
 AI-powered lead generation and sales automation platform.
 
 - Prospect discovery
@@ -17,9 +18,12 @@ AI-powered lead generation and sales automation platform.
 
 *Focus:* Sales & Business Automation
 
+[View live project →](https://ventrex.site)
+
 ---
 
 ### MultiRedes
+
 AI-powered content creation and multi-platform publishing system.
 
 - Video analysis
@@ -32,9 +36,12 @@ AI-powered content creation and multi-platform publishing system.
 
 *Focus:* AI Content Automation
 
+[View live project →](https://multiredes.app)
+
 ---
 
 ### Jobsitos
+
 AI-powered job discovery platform designed to help people find relevant employment opportunities.
 
 - Job search aggregation
@@ -44,9 +51,12 @@ AI-powered job discovery platform designed to help people find relevant employme
 
 *Focus:* Recruitment & Employment Technology
 
+[View live project →](https://jobsitos.com)
+
 ---
 
 ### Songlobe
+
 Digital platform for composers and artists.
 
 - Music catalog
@@ -58,29 +68,18 @@ Digital platform for composers and artists.
 
 *Focus:* Music Technology
 
-## 🧠 Technologies
+[View live project →](https://songlobe.com)
 
-- Artificial Intelligence
-- SaaS
-- Automation
-- TypeScript
-- JavaScript
-- Next.js
-- React
-- Node.js
-- PostgreSQL
-- Supabase
-- Firebase
-- APIs
-- Vercel
-- GitHub
+### BepBep
 
-## 💡 About Me
+Digital delivery platform designed to connect customers, businesses and delivery services.
 
-I am an entrepreneur, composer and product builder focused on turning ideas into working digital products.
+- Online ordering
+- Delivery management
+- Business workflows
+- Location and mapping features
+- Mobile-first PWA
 
-I combine business, technology, AI and creative thinking to build practical solutions that can be used in the real world.
+*Focus:* Delivery & Digital Platforms
 
-## 📫 Contact
-
-Available for AI product development, automation projects, SaaS development and technology partnerships.
+[View live project →](https://bepbep.site)
